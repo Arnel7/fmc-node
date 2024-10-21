@@ -23,5 +23,5 @@ function sendNotification(token, title, body) {
 
 // Exemple d'utilisation
 const token =
-  ""; // Remplacez par le token du client
+  ""; // Remplace par le token du client
 sendNotification(token, "Coding TEAM", "Exemple de notification ");
